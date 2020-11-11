@@ -1,0 +1,435 @@
+body{
+	background: url(fondo.jpg);
+	font-family: cursive;
+}
+
+.parte1{
+	background-color: #FFE883;
+	position: absolute;
+	width: 80%;
+	height: 90%;
+	display: block;
+	margin-left: 10%;
+	margin-top: 1%;
+	border: 2px solid black;
+	display: block;
+}
+
+.nombre{
+	position: absolute;
+	width: 90%;
+	height: 20%;
+	display: block;
+	margin-left: 5%;
+	margin-top: 1%;
+	border: 2px solid black;
+}
+
+.banner{
+	width: 100%;
+	height: 100%;
+}
+
+.aninicio{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.play{
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	margin-top: 38%;
+	margin-left: 45%;
+	display: block;
+}
+
+.play:hover{
+	width: 12%;
+	height: 22%;
+	margin-top: 37%;
+	margin-left: 44%;
+}
+
+.anip1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.anitierra{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.anizoom{
+
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.fotoestrella{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.fototierra{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.parte2{
+	background-color: #FFE883;
+	position: absolute;
+	width: 80%;
+	height: 90%;
+	display: block;
+	margin-left: 10%;
+	margin-top: 1%;
+	border: 2px solid black;
+	display: block;
+}
+
+.imgnarrador{
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	margin-top: 0.5%;
+	margin-left: 5%;
+}
+
+.narrador{
+	background-color: white;
+	position: absolute;
+	width: 70%;
+	height: 20%;
+	display: block;
+	margin-left: 20%;
+	margin-top: 1%;
+	border: 2px solid black;
+}
+
+.flechaizq{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 45%;
+}
+
+.flechaizq:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 44%;
+
+}
+.flechader{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 58%;
+}
+
+.flechader:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 59%;
+
+}
+
+
+.flecha{
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 50%;
+	margin-top: 20%;
+	position: absolute;
+}
+
+
+.flechavolt{
+	width: 10%;
+	height: 20%;
+	display: block;
+	margin-left: 62%;
+	margin-top: 32%;
+	position: absolute;
+}
+
+.flecha12{
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 42%;
+	margin-top: 30%;
+	position: absolute;
+}
+
+.repro{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 49%;
+	display: block;
+
+}
+
+.repro:hover{
+	width: 7%;
+	height: 12%;
+	margin-left: 48%;
+}
+
+
+.rueda{
+	width: 5%;
+	height: 10%;
+	position: absolute;
+	margin-top: 2%;
+	margin-left: 94%;
+}
+
+.rueda:hover{
+	width: 6%;
+	height: 11%;
+	margin-left: 93%;
+
+}
+
+
+
+.cuentoboton{
+	text-decoration: none;
+	background-color: red;
+	color: white;
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 85%;
+	width: 10%;
+	height: 10%;
+	border: 2px solid black;
+	text-align: center;
+	display: none;
+}
+
+.cuentoboton:hover{
+	width: 12%;
+	height: 12%;
+	margin-left: 84%;
+	font-size: 105%;
+
+}
+
+
+.ajustes{
+	background-color: pink;
+	position: absolute;
+	width: 20%;
+	height: 30%;
+	display: none;
+	margin-left: 72%;
+	margin-top: 5%;
+	border: 2px solid black;
+}
+
+.subirv{
+	width: 40%;
+	height: 65%;
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 10%;
+}
+
+.bajarv{
+	width: 40%;
+	height: 65%;
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 50%;
+}
+
+.bajarv:hover{
+	width: 41%;
+	height: 66%;	
+}
+
+.subirv:hover{
+	width: 41%;
+	height: 66%;	
+}
+
+
+.equis{
+	width: 10%;
+	height: 20%;
+	position: absolute;
+	margin-top: 5%;
+	margin-left: 85%;
+}
+
+.equis:hover{
+	width: 11%;
+	height: 21%;
+}
+
+.volver{
+	text-decoration: none;
+	background-color: lightgreen;
+	color: green;
+	position: absolute;
+	margin-top: 42%;
+	margin-left: 5%;
+	width: 10%;
+	height: 10%;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.volver:hover{
+	width: 12%;
+	height: 12%;
+	margin-left: 4%;
+	font-size: 105%;
+
+}
+
+.anientra1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.paisaje{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: block;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.quieto1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+
+.flechax{
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 30%;
+	margin-top: 30%;
+	position: absolute;
+}
+
+.flecha13{
+	width: 10%;
+	height: 20%;
+	display: none;
+	margin-left: 45%;
+	margin-top: 25%;
+	position: absolute;
+}
+
+.anientra2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.quietos{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.stop{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.habla1{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.habla2{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
+
+.pasam{
+	position: absolute;
+	width: 49%;
+	height: 73%;
+	display: none;
+	margin-left: 25%;
+	margin-top: 12%;
+	border: 2px solid black;
+}
